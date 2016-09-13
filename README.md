@@ -3,7 +3,10 @@ Basic application structure to get start for developing an angularJS2 applicatio
 
 
 Using npm from the command line, install the packages listed in package.json with the command:
-    npm install
+```bash
+npm install
+npm start
+```
     
     
 Follow this [link](https://angular.io/docs/ts/latest/quickstart.html#!#create-and-configure) for a detailed installation
